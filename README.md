@@ -1,2 +1,2 @@
-# algorithms-and-data-structures
+# Algorithms and data structures
 Some algorithms I wrote for university
